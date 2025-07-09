@@ -1,6 +1,6 @@
-print("blue")
-print("ბებოს კარტოფილი")
-print("playing football")
+print("ჩემი საყვარელი ფერი არის ლურჯი")
+print("ჩემი საყვარელი საჭმელი არისბებოს კარტოფილი")
+print("ჩემი ჰობი არის ფეხბურთის თამაშ")
 
 # favorite_film = "tulsa king"
 # favorite_film = "avengers endgame"
